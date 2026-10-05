@@ -1,0 +1,21 @@
+sm_id	verdict	n_runs	paper	testable	our_call
+SM10	MATCH	1	No	yes	No
+SM11	INCONCLUSIVE	1	Yes	no	cannot say
+SM14	INCONCLUSIVE	1	No	yes	cannot say
+SM15	INCONCLUSIVE	1	No	yes	cannot say
+SM16	INCONCLUSIVE	1	No	yes	cannot say
+SM17	INCONCLUSIVE	1	No	yes	cannot say
+SM18	INCONCLUSIVE	1	No	yes	cannot say
+SM19	INCONCLUSIVE	1	No	yes	cannot say
+SM2	INCONCLUSIVE	1	No	yes	cannot say
+SM20	INCONCLUSIVE	1	No	yes	cannot say
+SM21	INCONCLUSIVE	1	No	yes	cannot say
+SM22	INCONCLUSIVE	1	No	yes	cannot say
+SM23	MISLABELED	1	Yes	yes	Yes
+SM25	MATCH	1	No	yes	No
+SM3	INCONCLUSIVE	1	No	yes	cannot say
+SM4	INCONCLUSIVE	1	No	yes	cannot say
+SM5	INCONCLUSIVE	1	No	yes	cannot say
+SM6	INCONCLUSIVE	1	No	yes	cannot say
+SM7	MIXED	1	No	yes	No
+SM9	INCONCLUSIVE	1	No	yes	cannot say

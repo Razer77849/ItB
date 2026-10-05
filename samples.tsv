@@ -1,0 +1,23 @@
+sample	platform	declared_species	fastq1	fastq2	sm_id
+SRR30017717	iontorrent		data/raw/SRR30017717.fastq		
+SRR30017716	iontorrent		data/raw/SRR30017716.fastq		
+SRR30017711	iontorrent	Salmo_salar;Macruronus_capensis;Merluccius_paradoxus;Merluccius_capensis	data/raw/SRR30017711.fastq		SM10
+SRR30017705	iontorrent	Macruronus_capensis;Merluccius_paradoxus;Merluccius_capensis	data/raw/SRR30017705.fastq		SM11
+SRR30017704	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017704.fastq		SM14
+SRR30017702	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017702.fastq		SM15
+SRR30017701	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017701.fastq		SM16
+SRR30017700	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017700.fastq		SM17
+SRR30017703	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017703.fastq		SM18
+SRR30017698	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017698.fastq		SM19
+SRR30017699	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017699.fastq		SM2
+SRR30017719	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017719.fastq		SM20
+SRR30017718	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017718.fastq		SM21
+SRR30017715	iontorrent	Gadus_morhua	data/raw/SRR30017715.fastq		SM22
+SRR30017714	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017714.fastq		SM23
+SRR30017713	iontorrent	Salmo_salar	data/raw/SRR30017713.fastq		SM25
+SRR30017712	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017712.fastq		SM3
+SRR30017710	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017710.fastq		SM4
+SRR30017709	iontorrent	Gadus_morhua	data/raw/SRR30017709.fastq		SM5
+SRR30017708	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017708.fastq		SM6
+SRR30017707	iontorrent	Merluccius_gayi	data/raw/SRR30017707.fastq		SM7
+SRR30017706	iontorrent	Gadus_chalcogrammus	data/raw/SRR30017706.fastq		SM9

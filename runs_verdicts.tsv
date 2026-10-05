@@ -1,0 +1,23 @@
+sample	platform	declared	verdict	reason	composition	sm_id	paper_says_mislabeled	testable
+SRR30017717	iontorrent		NO_LABEL	no declared species (control or unmatched run)	{}			
+SRR30017716	iontorrent		NO_LABEL	no declared species (control or unmatched run)	{}			
+SRR30017711	iontorrent	Salmo_salar;Macruronus_capensis;Merluccius_paradoxus;Merluccius_capensis	MATCH	declared species confirmed, nothing else above threshold	{'Salmo_salar': 0.699}	SM10	No	yes
+SRR30017705	iontorrent	Macruronus_capensis;Merluccius_paradoxus;Merluccius_capensis	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Merluccius_hubbsi': 0.196, 'Merluccius_gayi': 0.191, 'Merluccius_australis': 0.143, 'Merluccius_capensis': 0.135}	SM11	Yes	no
+SRR30017704	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.404, 'Arctogadus_glacialis': 0.202}	SM14	No	yes
+SRR30017702	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.348, 'Arctogadus_glacialis': 0.223, 'Pollachius_virens': 0.099}	SM15	No	yes
+SRR30017701	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.367, 'Arctogadus_glacialis': 0.174, 'Sander_lucioperca': 0.094}	SM16	No	yes
+SRR30017700	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.429, 'Arctogadus_glacialis': 0.232}	SM17	No	yes
+SRR30017703	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.411, 'Arctogadus_glacialis': 0.158}	SM18	No	yes
+SRR30017698	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.368, 'Arctogadus_glacialis': 0.199, 'Pleuronectes_platessa': 0.121}	SM19	No	yes
+SRR30017699	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.426, 'Arctogadus_glacialis': 0.222}	SM2	No	yes
+SRR30017719	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.481, 'Arctogadus_glacialis': 0.203}	SM20	No	yes
+SRR30017718	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.31, 'Pleuronectes_platessa': 0.22, 'Arctogadus_glacialis': 0.143}	SM21	No	yes
+SRR30017715	iontorrent	Gadus_morhua	INCONCLUSIVE	declared genus detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.429, 'Arctogadus_glacialis': 0.205}	SM22	No	yes
+SRR30017714	iontorrent	Gadus_chalcogrammus	MISLABELED	declared absent; confirmed: Merluccius_gayi	{'Merluccius_gayi': 0.323, 'Merluccius_capensis': 0.193, 'Merluccius_australis': 0.129}	SM23	Yes	yes
+SRR30017713	iontorrent	Salmo_salar	MATCH	declared species confirmed, nothing else above threshold	{'Salmo_salar': 0.664}	SM25	No	yes
+SRR30017712	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.459, 'Arctogadus_glacialis': 0.211}	SM3	No	yes
+SRR30017710	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.416, 'Arctogadus_glacialis': 0.239}	SM4	No	yes
+SRR30017709	iontorrent	Gadus_morhua	INCONCLUSIVE	declared genus detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.423, 'Arctogadus_glacialis': 0.218}	SM5	No	yes
+SRR30017708	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.433, 'Arctogadus_glacialis': 0.238}	SM6	No	yes
+SRR30017707	iontorrent	Merluccius_gayi	MIXED	declared species present plus: Merluccius_capensis, Merluccius_australis	{'Merluccius_gayi': 0.364, 'Merluccius_capensis': 0.155, 'Merluccius_australis': 0.101}	SM7	No	yes
+SRR30017706	iontorrent	Gadus_chalcogrammus	INCONCLUSIVE	declared species detected but not confidently separated from relatives (add 2nd marker)	{'Gadus_chalcogrammus': 0.419, 'Arctogadus_glacialis': 0.232}	SM9	No	yes
