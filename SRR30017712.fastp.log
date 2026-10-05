@@ -1,0 +1,30 @@
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Read1 before filtering:
+total reads: 829
+total bases: 172798
+Q20 bases: 160357(92.8003%)
+Q30 bases: 113661(65.7768%)
+
+Read1 after filtering:
+total reads: 792
+total bases: 170891
+Q20 bases: 158992(93.0371%)
+Q30 bases: 112884(66.0561%)
+
+Filtering result:
+reads passed filter: 792
+reads failed due to low quality: 5
+reads failed due to too many N: 0
+reads failed due to too short: 32
+reads with adapter trimmed: 0
+bases trimmed due to adapters: 0
+
+Duplication rate (may be overestimated since this is SE data): 23.4017%
+
+JSON report: results/samples/SRR30017712.fastp.json
+HTML report: results/samples/SRR30017712.fastp.html
+
+fastp -i data/raw/SRR30017712.fastq -o results/samples/SRR30017712.trim.fq -q 15 -l 80 -j results/samples/SRR30017712.fastp.json -h results/samples/SRR30017712.fastp.html 
+fastp v0.23.4, time used: 1 seconds
